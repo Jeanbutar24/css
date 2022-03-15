@@ -1,0 +1,30 @@
+
+div{
+    width: 200px;
+    height: 100px;
+}
+.satu{
+width: 200px;
+height: 200px;
+background-color: black;
+margin: auto;
+
+}
+.dua{
+width: 150px;
+height: 150px;
+ font-family: monospace;
+margin-top: -200px;
+margin-left: 600px;
+overflow: auto;
+font-style: bold;
+color: white;
+
+}
+.tiga{
+    box-sizing: border-box;
+    background-color: blue;
+    overflow: scroll;
+    padding: 20px;
+    margin: auto;
+}

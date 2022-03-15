@@ -1,0 +1,11 @@
+.hello:link{
+    color: magenta;
+}
+ 
+.hello:hover{
+    color:red;
+    font-size: 25px;
+}
+.hello:visited{
+    color: black;
+}
