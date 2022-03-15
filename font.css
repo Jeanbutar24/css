@@ -1,0 +1,17 @@
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 50;
+    font-variant: small-caps;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 50;
+    font-variant: small-caps;
+    line-height: 15px;
+}
+li{
+    font-size: 20px;
+    font-weight: 150;
+}
